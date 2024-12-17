@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: http://tiojetmbolket.github.io/mgh/mnA_1.txt.gz
